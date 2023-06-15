@@ -63,3 +63,17 @@ hr {
 .hr-small {
     margin: 5px 0 10px 0;
 }
+
+.social-links {
+    display: flex;
+    gap: 15px;
+}
+
+.social-links i {
+    display: flex;
+    gap:20px;
+}
+
+.svg {
+    width: 200px;
+}
